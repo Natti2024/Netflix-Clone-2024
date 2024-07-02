@@ -17,7 +17,9 @@
 /* .nav_black{
     background-color: rgb(20, 20, 20);
 } */
-
+.header_outer_container {
+    top: 0;
+}
 .header_container{
     width: 90%;
     padding: 20px 6%;
